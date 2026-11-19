@@ -1,7 +1,7 @@
 {
   "version": "1.2.3",
   "download_url": "https://55063.github.io/selfupdater-releases/selfupdater.exe",
-  "sha256": "937826434d4c3e281340469a80bc299f652894d16047402ea2cc665f3f1f364f",
-  "signature": "7c8d59b21dadac2a70e16f258d2ee14bf280cc9ff34fafd5d542380d6a43bb44f47f6362828b2ea3429c9f160387b67ecfc22e4809685d72b14ff2cb11a31408",
+  "sha256": "92e69c26472eea8b9039a7be5f645ec14901e66bf6e28f15596586c85248fb94",
+  "signature": "3dfd89440eb74b7a30396997d528bae942d2fcab67e4e34b9e703a3a8cf1fdeb2fe8e5fb73c0b8ecda0ee1075b6714e956a071a06aec25b0c785d5bfafff1d09",
   "published_at": 1700000000
 }

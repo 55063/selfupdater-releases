@@ -1,0 +1,7 @@
+{
+  "version": "1.2.3",
+  "download_url": "https://example.com/releases/selfupdater.exe",
+  "sha256": "3247717d7cb1f0c0a1a3577228d66495b4e5b33c40e273817a827d1ce3490ec8",
+  "signature": "93c29847ca8ea24a85fa1e3ba6778e86c5e2749f0cbe689cd3a5efc3f2987e7c72e77dabf64145f2b90226ba756a1689bc913961798c4a86a9f4a3e6164be700",
+  "published_at": 1700000000
+}
